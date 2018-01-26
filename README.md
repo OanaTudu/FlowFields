@@ -1,2 +1,2 @@
 # FlowFields
-create flowfield stimuli (matlab code) approaching, departing, eft, right, up, down
+create flowfield stimuli (matlab code) approaching, departing, left, right, up, down
